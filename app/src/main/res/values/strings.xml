@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Biodata App</string>
+    <string name="name">Amni Saizan</string>
+    <string name="my_bio">Hello, my name is Amni Saizan, and I teach programming.
+        \n\nMy mission is to help my students reach their goal of becoming a great programmer.
+        I have experience in Moile App Development Android, Python, Java and Shell.
+        I am also founder of Beauty by Ameni Sparkles.
+        <u><i>Build Apps with Amni Saizan</i></u>,
+        where students have soft and technical skills.
+        Showing students on how to make amazing application and software.
+        My goal is to make you a great developer, no matteryour experience.
+        I enjoy spending time with my growing family, baking cakes and cookies, selling Mary Kay products.
+        I look forward to helping you become the best developer you can be. Thank you so much for being here.
+        It means the world to me!
+</string>
+    <string name="hobby_hint_text">Enter your hobbies</string>
+    <string name="done_button">Done</string>
+    <string name="image_description">Android robot image</string>
+    <string name="auto_fill_hints">baking cakes</string>
+</resources>

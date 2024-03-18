@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layout_margin">6dp</dimen>
+    <item name="lines_multiplier" type="dimen" format="float">2.2</item>
+</resources>
